@@ -23,6 +23,51 @@ Apply multimedia elements such as audio and video.
  
 # Tasks
 - Create a well-structured HTML5 document.
+- <!DOCTYPE html>
+<html>
+    <head>
+        <title> html lists,images,tables& forms</title>
+    </head>
+    <body>
+        <hi>html lists</hi>
+        <h3>Ordered lists</h3>
+        <ol type ="i"> start="1">
+            <li> Software Engineering</li>
+            <li>We Development</li>
+            <li>Python</li>
+            <li>Database</li>
+            <li>Starup Building</li>
+        </ol>
+        <hl>HTML Images</hl>
+        <Images src="Iyke shoes.jpg" alt="Timberland Shoe"> 
+        <hl>HTML Tables</hl>
+        <table border="l">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Password</th>
+                    <th>Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Ikechukwu</td>
+                    <td>itsover</td>
+                    <td>10th Dec 1980</td>
+                </tr>
+                <tr>
+                    <td>Akachi</td>
+                    <td>canyou</td>
+                    <td>14th March 1990</td>
+                </tr>
+                <tr>
+                    <td>Ihuoma</td>
+                    <td>iloveyou</td>
+                    <td>31th March 1987</td>
+                </tr>
+            </tbody>
+    </body>
+</html>
 - Ensure semantic correctness.
 
 Happy Coding! 💻✨
